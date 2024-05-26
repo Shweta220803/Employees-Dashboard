@@ -1,0 +1,111 @@
+[
+    {   
+        "medal":"./images/gold.jpeg",
+        "medalWidth": "20px",
+        "medalHeight": "25px",
+        "Rank": 1,
+        "image":"./images/user.jpeg",
+        "Name":"Rakesh Sharma",
+        "Designation":"UI/UX Designer",
+        "No. of hours worked":"7(42)",
+        "Changes":"1.5 hrs"
+    },
+    {
+        "medal":"./images/silver.jpeg",
+        "medalWidth": "23px",
+        "medalHeight": "35px",
+        "Rank": 2,
+        "image":"./images/user1.jpeg",
+        "Name":"Ankita Thakur",
+        "Designation":"HR Recruiter",
+        "No. of hours worked":"7(41)",
+        "Changes":"1.5 hrs"
+
+    },
+    {
+        "medal":"./images/bronze.jpeg",
+        "medalWidth": "30px",
+        "medalHeight": "30px",
+        "Rank": 3,
+        "image":"./images/user.jpeg",
+        "Name":"Sarah Yadav",
+        "Designation":"Product Manager",
+        "No. of hours worked":"7(40)",
+        "Changes":"1.5 hrs"
+
+    },
+    {
+        "Rank": 4,
+        "image":"./images/user1.jpeg",
+        "Name":"Harsha Shivhare",
+        "Designation":"Designer",
+        "No. of hours worked":"7(37)",
+        "Changes":"1.5 hrs"
+
+    },
+    {
+        "Rank": 5,
+        "image":"./images/user.jpeg",
+        "Name":"Vanhi Rai",
+        "Designation":"Video Editor",
+        "No. of hours worked":"7(37)",
+        "Changes":"1.5 hrs"
+
+    },
+    {
+        "Rank": 6,
+        "image":"./images/user.jpeg",
+        "Name":"Bhanu Sharma",
+        "Designation":"Business Analyst",
+        "No. of hours worked":"7(32)",
+        "Changes":"1.5 hrs"
+
+    },
+
+    {
+        "Rank": 7,
+        "image":"./images/user.jpeg",
+        "Name":"Sunil Yadav",
+        "Designation":"Developer",
+        "No. of hours worked":"7(24)",
+        "Changes":"1.5 hrs"
+
+    },
+
+    {
+        "Rank": 8,
+        "image":"./images/user.jpeg",
+        "Name":"Aakash Roy",
+        "Designation":"Business Analyst",
+        "No. of hours worked":"7(21)",
+        "Changes":"1.5 hrs"
+
+    },
+
+    {
+        "Rank": 9,
+        "image":"./images/user.jpeg",
+        "Name":"Rohit Saini",
+        "Designation":"Developer",
+        "No. of hours worked":"7(20)",
+        "Changes":"1.5 hrs"
+
+    },
+
+    {
+        "Rank": 10,
+        "image":"./images/user.jpeg",
+        "Name":"Suraj Chauhan",
+        "Designation":"Developer",
+        "No. of hours worked":"7(18)",
+        "Changes":"1.5 hrs"
+
+    }
+
+
+
+
+
+
+
+]
